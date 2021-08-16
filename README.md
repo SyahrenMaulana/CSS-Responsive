@@ -12,5 +12,4 @@
 ![Alt Teks](https://github.com/SyahrenMaulana/CSS-Responsive/blob/main/ss%20praktikum%20ke%205.png)
 # Latihan Ke 6
 ![Alt Teks](https://github.com/SyahrenMaulana/CSS-Responsive/blob/main/ss%20praktikum%20ke%206.png)
-# Latihan Ke 7
-![Alt Teks](https://github.com/SyahrenMaulana/CSS-Responsive/blob/main/ss%20praktikum%20ke%207.png)
+
